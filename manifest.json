@@ -4,7 +4,6 @@
   "version": "1.0.0",
   "minNoctaliaVersion": "4.4.3",
   "author": "blackteaextract",
-  "official": false,
   "license": "MIT",
   "repository": "",
   "description": "Toggle squeekboard on-screen keyboard with visual state indicator.",
